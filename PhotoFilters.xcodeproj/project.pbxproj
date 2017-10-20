@@ -14,6 +14,7 @@
 		0FEC2C9D1F9AB3DD00CF3C65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FEC2C9B1F9AB3DD00CF3C65 /* LaunchScreen.storyboard */; };
 		0FEC2CA81F9AB3DD00CF3C65 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FEC2CA71F9AB3DD00CF3C65 /* PhotoFiltersTests.swift */; };
 		0FEC2CB31F9AB3DD00CF3C65 /* PhotoFiltersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FEC2CB21F9AB3DD00CF3C65 /* PhotoFiltersUITests.swift */; };
+		0FEC2CC31F9AB90100CF3C65 /* macarons.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0FEC2CC21F9AB90100CF3C65 /* macarons.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0FEC2CAE1F9AB3DD00CF3C65 /* PhotoFiltersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FEC2CB21F9AB3DD00CF3C65 /* PhotoFiltersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersUITests.swift; sourceTree = "<group>"; };
 		0FEC2CB41F9AB3DD00CF3C65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FEC2CC21F9AB90100CF3C65 /* macarons.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = macarons.jpeg; path = ../../../Downloads/macarons.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		0FEC2C911F9AB3DD00CF3C65 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				0FEC2CC21F9AB90100CF3C65 /* macarons.jpeg */,
 				0FEC2C921F9AB3DD00CF3C65 /* AppDelegate.swift */,
 				0FEC2C941F9AB3DD00CF3C65 /* ViewController.swift */,
 				0FEC2C961F9AB3DD00CF3C65 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FEC2C9D1F9AB3DD00CF3C65 /* LaunchScreen.storyboard in Resources */,
+				0FEC2CC31F9AB90100CF3C65 /* macarons.jpeg in Resources */,
 				0FEC2C9A1F9AB3DD00CF3C65 /* Assets.xcassets in Resources */,
 				0FEC2C981F9AB3DD00CF3C65 /* Main.storyboard in Resources */,
 			);
